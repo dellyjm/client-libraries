@@ -127,4 +127,4 @@ Thereafter access is allowed to to multiple APIs once the developer apiKey (acce
 >	* insuranceApi
 >	* lifeStyleApi
 >	* activitiesApi
->   * appointmentsApi
+>   	* appointmentsApi
